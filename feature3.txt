@@ -1,2 +1,4 @@
 Master was here
 Feature3 branch Rules!
+new line
+new line2
